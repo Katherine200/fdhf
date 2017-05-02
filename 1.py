@@ -11,7 +11,7 @@
 def identidad(Primernombre, Segundonombre, Primerapellido):
     a=str(Primernombre)
     b=str(Segundonombre)
-    c=str(Primerapellido)+int
+    c = str(Primerapellido) + intt
 
     K=a+b+c
     return K
